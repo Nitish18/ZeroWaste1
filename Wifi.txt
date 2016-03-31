@@ -1,0 +1,2 @@
+1.) netsh wlan start hostednetwork
+2.) netsh wlan stop hostednetwork
